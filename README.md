@@ -1,4 +1,4 @@
-Restaurant System
+# Restaurant System
 -> Download "Restaurant System.rar)
 In this use case, there are three roles: customer, system, and admin.
 
