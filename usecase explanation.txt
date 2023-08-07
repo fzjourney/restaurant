@@ -1,0 +1,18 @@
+Dalam use case ini ada 3 peran yaitu customer, system, dan juga admin.
+
+Nah customer disini berperan dalam:
+1. melihat makanan
+2. memesan makanan 
+	-> dalam memesan makanan customer dapat memilih antara dibawa pulang atau makan ditempat.
+3. mengambil nomor meja
+4. pembatalan makanan
+5. dan juga pembayaran
+
+Peran system disini memberikan pilihan pada customer dalam pemilihan pembayaran, pembayaran yang disediakan ada cash dan cashless
+
+Untuk bagian admin, admin punya 3 peran yaitu login, maintenance, sama customer log.
+1. Setelah admin melakukan login, maka admin dapat menambah dan menghapus menu didalam maintenance, dan yang terakhir setelah admin melakukan login admin dapat melihat customer log sebagai data yang dapat disimpan di komputer sendiri.
+
+admin meja cust linkedlist
+tree menu
+delete pas mau ngubah menu
